@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/demoport/static/css/main.31d6cfe0.css",
+    "main.js": "/demoport/static/js/main.392c5280.js",
+    "index.html": "/demoport/index.html",
+    "main.392c5280.js.map": "/demoport/static/js/main.392c5280.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.392c5280.js"
+  ]
+}
